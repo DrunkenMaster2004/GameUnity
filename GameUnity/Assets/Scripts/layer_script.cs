@@ -5,8 +5,7 @@ using UnityEngine;
 public class layer_script : MonoBehaviour
 {
     public Rigidbody2D layer1;
-    public float ms = 0.5f;
-    public GameObject layer1;
+    public float ms = 5f;
     // Start is called before the first frame update
     void Start()
     {
